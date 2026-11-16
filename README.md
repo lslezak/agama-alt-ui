@@ -8,6 +8,10 @@ Workflow: choose a server → trust its certificate → log in → pick a produc
 
 <img width="1044" height="902" alt="lslezak github io_agama-alt-ui" src="https://github.com/user-attachments/assets/860b4a54-aa4c-40ec-829d-7d4e7880522a" />
 
+
+<img width="1039" height="923" alt="lslezak github io_agama-alt-ui_products" src="https://github.com/user-attachments/assets/f653fce9-14d8-455a-8e29-ade8dfaf647b" />
+
+
 ## Usage
 
 ```sh
