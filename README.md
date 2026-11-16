@@ -6,6 +6,8 @@ server over HTTP. See [SPECIFICATION.md](SPECIFICATION.md) for the details.
 
 Workflow: choose a server → trust its certificate → log in → pick a product → summary.
 
+<img width="1044" height="902" alt="lslezak github io_agama-alt-ui" src="https://github.com/user-attachments/assets/860b4a54-aa4c-40ec-829d-7d4e7880522a" />
+
 ## Usage
 
 ```sh
